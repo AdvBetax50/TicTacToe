@@ -1,0 +1,12 @@
+main {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    height: 200px;
+    width: 200px;
+}
+
+app-square {
+    border: 1px gray solid;
+    // height: 20px;
+    // width: 20px;
+}
